@@ -13,4 +13,4 @@
 | H          | 111 |
 
 ### Simulation
-![This is an image](images/Screenshot (721).png)
+![This is an image](https://github.com/KhanhEK2846/Morse-for-8-letters-of-the-Alphabet/blob/f2eb030a07f419661ffe7714387c1b3deeb61816/images/Screenshot%20(721).png)
